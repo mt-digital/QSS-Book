@@ -1,0 +1,53 @@
+project:
+  type: book
+
+book:
+  title: "Quantitative Social Science to Shape the Future"
+  author: "Matthew A. Turner"
+  date: today
+  chapters:
+    - index.qmd
+    - Introduction.qmd
+    - Programming.qmd
+    - Development.qmd
+    - Mathematics.qmd
+    - BehaviorChange.qmd
+    - OpinionChange.qmd
+    - Conclusion.qmd
+    - References.qmd
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "Course Notes"
+        href: "https://SocSci-for-Sustainability.github.io/course-notes"
+      #- text: "Newsletter"
+      #  href: "https://matphd.substack.com"
+      #- text: "Curriculum"
+      #  href: curriculum.qmd
+      #- text: "About"
+      #  href: about.qmd
+    collapse: true
+    pinned: true
+    search: true
+
+bibliography: /Users/mt/Workspace/Writing/library.bib
+
+format:
+  html:
+    toc: true
+    toc-title: "Chapter contents"
+    theme: 
+      light:
+        - theme-light.scss
+        # - qss4s-styles.scss
+        - styles.scss
+      dark:
+        - darkly 
+        - theme-dark.scss
+        - styles.scss
+        # - qss4s-styles.scss
+    fontsize: 1.0em
+    linestretch: 1.2
+    number-sections: true
+    number-depth: 3
