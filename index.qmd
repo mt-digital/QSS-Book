@@ -14,6 +14,10 @@ and ecological protection, which are represented by SDGs 7, 11, 12, 13,
 organizations, institutions, and governments that can help support basic human
 needs and environmental protection.
 
+$$
+\int e^x~dx = e^x + C
+$$
+
 My first move in this book is to introduce
 my _VIBE_ system for organizing the UN Sustainable Development Goals: we 
 need _Vibrant Institutions_ that provide _Basic_ needs so everyone can

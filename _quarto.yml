@@ -3,8 +3,19 @@ project:
 
 book:
   title: "Quantitative Social Science to Shape the Future"
-  author: "Matthew A. Turner"
+  author:
+  - name: Matthew A. Turner
+    orcid: 0000-0001-7421-4552
   date: today
+  sidebar: 
+    logo: images/QSS2SF-word-logo.png
+  # author: "Matthew A. Turner"
+  # logo: "images/QSS2SF-word-logo.png"
+
+  repo-url: https://github.com/mt-digital/QSS-Book
+  repo-branch: main
+  repo-actions: [edit, issue]
+
   chapters:
     - index.qmd
     - Introduction.qmd
@@ -17,18 +28,10 @@ book:
     - References.qmd
   navbar:
     right:
-      - text: "Home"
-        href: index.qmd
       - text: "Course Notes"
         href: "https://SocSci-for-Sustainability.github.io/course-notes"
-      #- text: "Newsletter"
-      #  href: "https://matphd.substack.com"
-      #- text: "Curriculum"
-      #  href: curriculum.qmd
-      #- text: "About"
-      #  href: about.qmd
     collapse: true
-    pinned: true
+    # pinned: true
     search: true
 
 bibliography: /Users/mt/Workspace/Writing/library.bib
@@ -37,6 +40,7 @@ format:
   html:
     toc: true
     toc-title: "Chapter contents"
+    html-math-method: katex
     theme: 
       light:
         - theme-light.scss
