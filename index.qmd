@@ -1,61 +1,25 @@
-# Preface {.unnumbered}
+<!-- <h1 class=unnumbered id="front-matter">Front Matter</h1> -->
 
-_Sustainability_ can be understood rather simply, contrary to its status as a
-buzzword: sustainable living, or a sustainable economy, does not use or require
-more resources from the ambient environment than can be replaced within a short
-period of time—like, much less than a human lifespan—without direct human
-intervention. The [United Nations developed 17 _Sustainable Development Goals_
-(SDGs)](https://sdgs.un.org/goals) to organize sustainability according to its
-various foundations. Some goals address direct human needs, like SDG 5, _Gender
-Equality_, or SDG 6, _Clean Water and Sanitation_. These needs must be met if we
-want people to be free enough to be able to engage in meaningful environmental
-and ecological protection, which are represented by SDGs 7, 11, 12, 13, 
-14, and 15. Others (SDGs 3, 4, 5, 8, 9, 10, 16, 17) identify features of 
-organizations, institutions, and governments that can help support basic human
-needs and environmental protection.
+# Front Matter {#fm-placeholder .unnumbered}
 
-$$
-\int e^x~dx = e^x + C
-$$
+<br>
 
-My first move in this book is to introduce
-my _VIBE_ system for organizing the UN Sustainable Development Goals: we 
-need _Vibrant Institutions_ that provide _Basic_ needs so everyone can
-contribute to _Environmental_ (and _Ecological_...and _Economic_) security. 
-What we learn about one dimension of
-sustainability can be icnreasingly adapted or generalized for application to
-other dimensions. For example, a study of a public health educational
-interventions in rural Andean highlands of South America could reveal 
-useful strategies for promoting coastal mangrove forest management to prevent
-inundation in the most climate change-impacted regions of the world like the
-Pacific Island nations including Fiji, Kiribati, and Vanuatu. Consolidating the
-concept of _sustainability_ like this provides a motivation and foundation for
-similarly consolidating the social science of social change into a coherent core
-set of theoretical mechanistic models expressed as formal rules and logical or
-computational processes. 
+![](images/Cover.png)
 
-Next I introduce a framework for studying and shaping social change: social
-change is either _behavior change_ or _opinion change_. We have to
-separate these because they have very different natures, even though they are
-commonly treated as equivalent: behavior change is directly observable, but
-opinion change is not. For behavior change, one needs to be able
-to observe and learn to do alternative behaviors. Opinion change has no such
-constraint—so any Joesephine or Joe off the street can have an opinion about
-foreign policy, but most we would never hire as an ambassador. 
+<br>
 
-- Following this introduction, I explain readers can begin to develop their own
-social change modeling research projects. I believe studying this early on in
-the course can help clarify the practice of studying and using social change for
-applied research in policy design, social influence campaigns, and more, before
-students dive in to learn the technical details required to do 
-quantitative social science work themselves.
-- The mathematics of social change in two parts: math of behavior change and
-  math of social change.
+::: {.text-center style="font-size: 0.8rem;"}
 
-Thank you for visiting this online book. We only have so many moments in
-life, and I recognize you could be spending yours another way.
+First Draft Edition: March 2026
 
-With sincere gratitude,
+© 2026 Matthew A. Turner
 
+All rights reserved.
 
-Matt
+<br>
+
+Published by **Agile Publishers** in Merced, California. 
+
+Agile Publishers is an imprint of _SubtleTea Solutions, LLC_.
+
+:::

@@ -1,29 +1,45 @@
 /*-- scss:rules --*/
 
 /* === Fonts === */
-@import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600&display=swap");
+@import
+url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Fira+Sans:ital,wght@0,200;0,300;0,400;0,500;0,600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Ojuju:wght@0,300;0,400;0,500;0,600");
 
 /* === Color system === */
 $title-bg: #444;
 $title-fg: #8fb3cc;
 $title-fg: #acc7db;
 $subtitle-fg: #fdfaf6;
-$heading-color: #4f7d9d;
+$heading-color: #061842;
+$title-color: #5A9B79;
 $inline-code-purple: #a277ff;
+
+$link-color: #72B6A6;
 
 $navbar-bg: #4a789b;
 $navbar-fg: #ffffff;
 $navbar-hover: #f4d3e1;
 
-$navbar-bg: #555;
+$navbar-bg: #222;
 $navbar-fg: #ffffff;
 $navbar-hover: #f4d3e1;
+
+
+// Hide the "Front Matter" title for all-in-one title + copyright + TOC index.qmd
+#fm-placeholder h1  {
+  display: none;
+}
 
 .navbar,
 .navbar.navbar-dark,
 .navbar.navbar-light {
   background-color: $navbar-bg;
-  // font-family: "Fira Sans", system-ui, sans-serif;
+  font-family: "Source Serif 4", system-ui, sans-serif;
+  font-weight: 300;
+}
+
+.navbar-title:hover {
+  color: $title-color;
 }
 
 .navbar .navbar-brand,
@@ -36,13 +52,58 @@ $navbar-hover: #f4d3e1;
   color: $title-fg;
 }
 
+/* div#quarto-margin-sidebar.sidebar.margin-sidebar ul li a.nav-link.active { */ 
+
+/*   color: $link-color !important; */ 
+/*   border-left: 1.5px solid $link-color; */
+/*   font-weight: 600; */
+/* } */
+div#quarto-margin-sidebar ul li a.nav-link.active {
+
+  color: $link-color !important;
+  border-left: 1.5px solid $link-color;
+  font-weight: 600;
+
+}
+
 .sidebar-menu-container a.sidebar-link.active {
-  color: #2ea8e7;          
-  // font-weight: 600;
+  color: $link-color;          
+  font-weight: 600;
 }
 
 .sidebar-menu-container a.sidebar-link:hover .menu-text {
-  color: #2ea8e7;          
+  color: $link-color;          
+}
+
+div#quarto-margin-sidebar ul li a:hover {
+  color: $link-color !important; 
+  border-left: 1.5px solid $link-color;
+}
+
+div#quarto-margin-sidebar div.toc-actions a:hover {
+  color: $link-color !important; 
+  border-left: 0px solid $link-color;
+}
+
+li a.nav-link:hover {
+
+  color: $link-color !important; 
+}
+
+/* Target the link AND any span inside the active link */
+.sidebar-item a.sidebar-link.active,
+.sidebar-item a.sidebar-link.active span {
+  color: $link-color !important;
+}
+
+/* Match Hover state to the same variable */
+.sidebar-item a.sidebar-link:hover,
+.sidebar-item a.sidebar-link:hover span {
+  color: $link-color !important;
+}
+
+.chapter-number::after {
+  content: ".";
 }
 
 
@@ -58,6 +119,10 @@ main#quarto-document-content {
   font-size: 17px;
   // font-size: 17px;
   text-align: justify;
+
+  a {
+    color: $link-color;
+  }
 }
 
 #quarto-sidebar > div.sidebar-menu-container {
@@ -69,16 +134,18 @@ main#quarto-document-content {
   
 }
 
+
 span.katex-html {
   font-family: "Source Serif Pro", "KaTeX_Main", serif;
   font-size: 1.05em;
 }
 
+
 .content :is(h1, h2, h3, h4, h5, h6) {
   letter-spacing: 0.02em;
   color: $heading-color;
-  // font-family: "Fira Sans", system-ui, sans-serif;
-  font-weight: 400;
+  font-family: "Fira Sans", system-ui, sans-serif;
+  font-weight: 300;
 }
 
 
@@ -94,8 +161,9 @@ span.katex-html {
   
 }
 
+
 #title-block-header > div.quarto-title > h1 {
-  color: $heading-color;
+  color: $title-color;
   font-family: "Source Serif Pro", serif;
   font-weight: 600;
 }
@@ -119,9 +187,12 @@ span.katex-html {
 
 .navbar {
   min-height: 48px;
+  padding: 0.1rem;
   height: 48px;
   line-height: 1;
   // font-family: "Fira Sans", sans-serif;
+  font-family: "Ojuju", sans-serif;
+  font-weight: 600;
 }
 
 .navbar-brand,
