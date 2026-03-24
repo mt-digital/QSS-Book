@@ -1,0 +1,82 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Social Science for Sustainable Futures",
+    "section": "",
+    "text": "Front Matter\n\n\n\n\nFirst Draft Edition: March 2026\n© 2026 Matthew A. Turner\nAll rights reserved.\n\nPublished by Agile Publishers in Merced, California.\nAgile Publishers is an imprint of SubtleTea Solutions, LLC.",
+    "crumbs": [
+      "Front Matter"
+    ]
+  },
+  {
+    "objectID": "Preface.html",
+    "href": "Preface.html",
+    "title": "Preface",
+    "section": "",
+    "text": "Dear reader,\nThis book attempts to curate a selection of social science that can be applied to solving the challenge of our age: organizing ourselves into a sustainable existence. This book began as course notes for various Stanford Doerr School of Sustainability courses I was commissioned to develop and teach.\nSustainability is a risky word, perhaps already rendered meaningless to you, dear reader. Perhaps you’ve seen too many greenwashing campaigns, had your mind twisted into a migraine by empty promises from cynical tech billionaires who’ve long promised to “make the world a better place”.\nThis book seeks to reclaim sustainability and define it rigorously in a formal system that takes the good of the minoritized and marginalized as a first principle. The book shows how to use math and software to design self-sustaining social systems by simulating their mathematical and digital twins.\nDifferent ways to structure educational outreach—such as who in a population should be educated directly—can be tested in low-cost simulations. The simulations provide a method to triage alternate intervention strategies, prioritizing those that performed best in simulations for real-world deployment.\nIt may seem distasteful to talk about engineering social organization. After studying the social and political moment a bit, I believe that we can either choose how to socially organize ourselves, or someone else will choose for us.\n\nTo make sustainability concrete, I adopt a definition by enumeration for sustainability, guided by the United Nation’s 17 Sustainable Development Goals. These include healthcare, food security, gender equality, education, and clean water as foundational basic needs that institutions can help provide. Many of the Sustainable Development Goals are necessary conditions, like those I listed, for climate action and ecological protection.\nSome might argue that the ecology is more basic since, yes, climate change will cause new climate refugees who lack the basics. But that does mean that are not consequences of environmental health, but the necessary conditions people need to claim the freedom to care about environmental and ecological problems in the first place. One cannot participate in climate action if they walk two hours for water daily, if they have dysentery, if they are threatened by sexual violence.\n\nThis book develops a consolidated system of quantitative social science to more readily solve pressing practical problems like promoting public health, and also to accelerate the development of social science theory and techniques to rigorously organize ourselves. I believe it is our duty to proactively prepare to lead the next chapter in human history so that future generations do not look at us like we are currently looking at the sclerotic gerontocracy that gave us more than a decade of feeble-bodied and -minded presidents. It’s like everyone’s hypnotized sometimes.\nIt’s our responsibility as social scientists who have benefitted from public-supported education our whole lives, plus many comforts of life in the US and other capitalist countries in this first quarter of the 2000s. It seems to be our job now to revitalize and rebuild so that the youth of today and tomorrow look to their leaders and see competence and style, instead of buffoonery and decay. I for one am energized by the challenge.\nOne problem with attempting to synthesize social science or any selection of behavioral science is the recent Cambrian explosion of research, with few scientists equipped and free to formally analyze social science canon.\nIt’s the serious responsibility of established scientists to tamp down wild, unrigorous, but potentially laudable attempts at synthesis. For example, Paul Smaldino wrote a teasing, skeptical, but overall supportive book review called “It’s All Connected, Man”, of César Hidalgo’s Why Information Grows: The Evolution of Order, from Atoms to Economies (Smaldino 2016).\nWith his teasing title, Paul hints that while Hidalgo may have stitched together an interesting and stimulating read, Hidalgo does not manage to tightly and rigorously stitch them together. Paul’s title suggests Hidalgo’s philosophy would be at home at my high school’s “smoke pit”, down the slope from the football field, where stoner burnouts used to lay round about 4:20 PM after school. I fear that I, too, will get tangled up in my ambitions, falling, too, in the academic careerist’s smoke pit, down the slope from Harvard yard where junkies do drugs by the Charles, a stoner burnout not fit for academia or even, gasp, industry.\nBut really, dear reader, I humbly believe that you will find this book to be the opposite of handwaving: the contents are developed rigorously. Only recently, years after my PhD, did I start to wonder how senior social scientists’ arms don’t get tired after so much handwaving at multi-day conferences. It seems many prominent social scientists have hand-waved themselves into a trance of self-deception where they believe their models and theories are practically absolute truth because they are “scientific.”\nTo arrive at the concept for this book, I had to recognize that their mistake is taking the falsificationist model of science too seriously, which assumes that one theory subsumes an alternate when it can better predict some observations that the alternate fails to predict. Perhaps some subsets of physics work like this, but this model is a miserable failure for describing how social science works. Social science demands pluralism, meaning lots of different theories and models, because it encompasses many orders of magnitude of space and time, with many more independent components that interact in complex ways.\n\nI get a handle on the complexity of social change by first organizing it into two orthogonal categories: behavior change and opinion change. “Behavior” is a stand-in for any practice that could be directly observed in the real world. Opinion stands in for any belief or attitude that cannot be directly observed—if these exist at all, they exist in the brain-body alone. We can directly ask people survey questions to learn their opinions (Zaller and Feldman 1992); or we can infer opinions from behavior, like in the implicit association test (IAT), where differences in keypress times matching black or white children’s faces with pleasant or unpleasant words represents an implicit bias against black children (Anthony G. Greenwald, Mcghee, and Schwartz 1998; Anthony G. Greenwald et al. 2009).\nSecond, to reduce complexity I present one common mathematical formalism for behavior change and another for opinion change. The formalism of behavior change is called the prevalence dynamic. It relates the change in the prevalence of behaviors to the number doing now, plus the number who learn a behavior to adopt it, how many keep doing their current behavior versus drop the behavior for some alternative. In the book I show that the prevalence dynamic is formally equivalent to the replicator dynamic originally developed to describe biological and genetic population dynamics (McElreath and Boyd (2007) provide a representative review of the replicator dynamic for cultural evolution).\nSince opinions do not replicate like behaviors do, and measurement of opinions is non-trivial, they demand a different formalism. In fact, these complications seem to have greatly affected the science of opinion change. Evolutionary scientists ready to show sociologists how it’s done will encounter the hard fact that “opinions” don’t exist in the same way a behavior does.\nOpinions appear to be constructed at the time they are required. Consider the following example to see why: you’re stuck in traffic because of a crash and you have to consider the GPS and your experience and judgement to decide which you believe will be better: to take the alternate route or not? In such a case we cannot possibly think about every opinion we’ll need for wherever we’ll break down in whatever situation since there are infinitely many possible contexts where we’ll need an opinion like that. Therefore our opinion about them must be constructed.\nPolitical scientists found that people answer survey questions differently depending on their order, and also answer the same question differently over time, even though they verbally report that their political views have not changed. All this unresolved opinion instability as political scientists call it suggests that opinions and opinion change are anything but a solved problem.\n\nThank you for your time and attention. We only have so many moments in life, only so many flits of the eye. I recognize you could be spending it another way.\nI love hearing feedback, especially at this stage. I am currently releasing the book in parts, collecting reviews as I publish different chunks. I would super appreciate any time or effort you spent sending thoughts by email to me.\n\n\nWith sincere gratitude and hope for the future,\n\nMatt Turner\n\n\nhttps://mat.phd\ncontáctame por email\nCo-Founder and Co-Director, Instituto Dourados\nFounder and Architect, GPD Américas\nFounder and President, SubtleTea Solutions\n\n24 March 2026\nMerced, California\n\n\n\n\n\n\nGreenwald, Anthony G, Debbie E Mcghee, and Jordan L K Schwartz. 1998. “Measuring Individual Differences in Implicit Cognition :” Journal of Personality and Social Psychology 74 (6): 1464–80.\n\n\nGreenwald, Anthony G., T. Andrew Poehlman, Eric Luis Uhlmann, and Mahzarin R. Banaji. 2009. “Understanding and Using the Implicit Association Test: III. Meta-Analysis of Predictive Validity.” Journal of Personality and Social Psychology 97 (1): 17–41. https://doi.org/10.1037/a0015575.\n\n\nMcElreath, Richard, and Robert Boyd. 2007. Mathematical Models of Social Evolution. University of Chicago Press.\n\n\nSmaldino, Paul E. 2016. “It’s All Connected, Man. A Review of César Hidalgo’s Why Information Grows: The Evolution of Order, from Atoms to Economies (Allen Lane, 2015).” Cliodynamics: The Journal of Quantitative History and Cultural Evolution 7 (1). https://doi.org/10.21237/C7CLIO7131580.\n\n\nZaller, John, and Stanley Feldman. 1992. “A Simple Theory of the Survey Response: Answering Questions versus Revealing Preferences.” American Journal of Political Science 36 (3): 579. https://doi.org/10.2307/2111583.",
+    "crumbs": [
+      "Preface"
+    ]
+  },
+  {
+    "objectID": "Introduction.html",
+    "href": "Introduction.html",
+    "title": "1  Social Science and the Sustainability VIBE",
+    "section": "",
+    "text": "1.1 Sustainability and Social Science",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Social Science and the Sustainability _VIBE_</span>"
+    ]
+  },
+  {
+    "objectID": "Introduction.html#social-change",
+    "href": "Introduction.html#social-change",
+    "title": "1  Social Science and the Sustainability VIBE",
+    "section": "1.2 Social Change",
+    "text": "1.2 Social Change\nSocial change is complex if nothing else since it is the coordination of brain-bodies and the brain is already the most complex single object in the Universe. We begin taming this complexity by identifying two types of social change: behavior change and opinion change.\n\n1.2.1 Behavior Change\n\n\n1.2.2 Application 2: Overcoming the Dark Occult Using the Price Equation\nCurrent events have exposed how some powerful people really do seem to participate in dark forms of magic whose intent is to control others’ behavior. In the early 1900s, a British Agent named\nThe problem is, Aeons are susceptible to Dialectic\nCultural evolution provides the Price equation to quantitatively reason about tradeoffs between how frequently one person learns a practice from another\n\n\n1.2.3 Opinion Change",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Social Science and the Sustainability _VIBE_</span>"
+    ]
+  },
+  {
+    "objectID": "Introduction.html#conclusion",
+    "href": "Introduction.html#conclusion",
+    "title": "1  Social Science and the Sustainability VIBE",
+    "section": "1.3 Conclusion",
+    "text": "1.3 Conclusion",
+    "crumbs": [
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Social Science and the Sustainability _VIBE_</span>"
+    ]
+  },
+  {
+    "objectID": "BehaviorChange.html",
+    "href": "BehaviorChange.html",
+    "title": "5  Behavior Change Modeling and its Applications",
+    "section": "",
+    "text": "5.1 Agent-based Models of Behavior Change",
+    "crumbs": [
+      "<span class='chapter-number'>5</span>  <span class='chapter-title'>Behavior Change Modeling and its Applications</span>"
+    ]
+  },
+  {
+    "objectID": "OpinionChange.html",
+    "href": "OpinionChange.html",
+    "title": "6  Opinion Change and its Applications",
+    "section": "",
+    "text": "6.1 Agent-based Models of Opinion Change",
+    "crumbs": [
+      "<span class='chapter-number'>6</span>  <span class='chapter-title'>Opinion Change and its Applications</span>"
+    ]
+  },
+  {
+    "objectID": "References.html",
+    "href": "References.html",
+    "title": "References",
+    "section": "",
+    "text": "Greenwald, Anthony G, Debbie E Mcghee, and Jordan L K Schwartz. 1998.\n“Measuring Individual Differences in Implicit\nCognition :” Journal of Personality and Social\nPsychology 74 (6): 1464–80.\n\n\nGreenwald, Anthony G., T. Andrew Poehlman, Eric Luis Uhlmann, and\nMahzarin R. Banaji. 2009. “Understanding and\nUsing the Implicit Association Test: III. Meta-Analysis of Predictive\nValidity.” Journal of Personality and Social\nPsychology 97 (1): 17–41. https://doi.org/10.1037/a0015575.\n\n\nMcElreath, Richard, and Robert Boyd. 2007. Mathematical Models of Social Evolution.\nUniversity of Chicago Press.\n\n\nSmaldino, Paul E. 2016. “It’s All Connected,\nMan. A Review of César Hidalgo’s Why\nInformation Grows: The Evolution of Order, from Atoms to Economies\n(Allen Lane, 2015).” Cliodynamics: The Journal of\nQuantitative History and Cultural Evolution 7 (1). https://doi.org/10.21237/C7CLIO7131580.\n\n\nZaller, John, and Stanley Feldman. 1992. “A\nSimple Theory of the Survey Response: Answering Questions versus\nRevealing Preferences.” American Journal of Political\nScience 36 (3): 579. https://doi.org/10.2307/2111583.",
+    "crumbs": [
+      "References"
+    ]
+  }
+]
