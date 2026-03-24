@@ -210,5 +210,22 @@ div.quarto-title h1 {
   font-weight: 600;
 }
 
-#title-block-header {
+// #preface-letter {
+//   text-align: left;
+//   max-width: 700px !important;
+// }
+
+.float-left {
+  float: left;
+  margin-left: 0.0rem;
+  margin-right: 0.8em;
+  margin-top: 0.8rem;
+  margin-bottom: 0.8em;
 }
+
+#signature {
+  margin-top: 20px;
+  margin-left: 190px;
+}
+
+
