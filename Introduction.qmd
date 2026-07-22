@@ -1,29 +1,187 @@
-# Social Science and the Sustainability _VIBE_
+# How Quantitative Social Science Can Aid Adaptation
 
 
+Effective groups and organizations, from pairs to nations, tend to be well
+organized. One might ask, for example, why did the United States become a
+superpower, but not Brazil? Brazillian historian, philosopher, and public
+intellectual, Leandro
+Karnal, recites this question in a Brazilian university-level trade book on the
+history of the United States, which he says has long preoccupied Brazilian
+scholars. which has always had a comparable population size
+and regrettably even share a history of slavery, with Brazil abolishing slavery
+in 1888, more than ten years after the United States did. Some suggested it was
+due to more easily navigable rivers within the United States' borders compared
+to those of Brazil, for example.
 
-## _Sustainability_ and Social Science
+A prominent Brazilian philosopher and historian, Leandro Karnal,
+explains that the United States' succeess was more likely due to its system of
+government that built upon the successes of Great Britain tempering royal power
+gradually through increasingly democratic government, starting by 150
+by systems of political and social organization the country inherited its
+political ancestor, England/the United Kingdom. During the later dark ages, the
+thread from the French began to appear increasingly dire.
 
-## Social Change
+In another example from relatively recent political history, consider the famous
+Medici family of Florence, with whom Machiavelli was familiar and on whom he
+based his timeless, revolutionary work on the political science of power in _The
+Prince_.
 
-Social change is complex if nothing else since it is the coordination of
-brain-bodies and the brain is already the most complex single object in the
-Universe. We begin taming this complexity by identifying two types of social
-change: *behavior change* and *opinion change*. 
+Social learning, combined with innovation, enables cultural practices to
+evolve, just like reproduction enables biological organisms to evolve. In
+biology, the species with the highest reproduction rates are said to be more fit
+than alternative. In other words, fitness and reproduction rate are
+_defined_ to be equivalent in biology---_fitness_ is therefore a shorthand in
+biology, it exists only as an abstract theoretical reference to the concrete
+observable _reproduction rate_.
 
-### Behavior Change
+In cultural evolution, however, it is more
+complicated because the benefit of a behavior may help increase its prevalence,
+but there are other factors that sometimes affect how people choose to act.
+In _fitness_ that doing a behavior might because unlike in biological evolution,
+there are several mechanisms that affect the reproduction rate of a practice or
+behavior.
 
-### Application 2: Overcoming the Dark Occult Using the Price Equation
+So the question then is, how do we define fitness for human behavior? We need
+not commit to much, just that a fitness of a human behavior is proportional to
+the benefit that person receives. The benefit may be material and immediate,
+like if someone goes to the casino, gambles, and wins big over the course of
+their visit. However, whatever value a behavior bestows may also take longer to
+manifest and be relatively hidden from view. With investments in public health,
+for example, it may take a generation to see the effects of interventions and
+it may be difficult to meaningfully valuate the benefits of a better informed
+populace. Notice how, paradoxically, a valuable long term strategy of _public
+health investments_ may seem to have worse payoffs compared to gambling if
+contextual factors are not accounted for.
 
-Current events have exposed how some powerful people really do seem to
-participate in dark forms of magic whose intent is to control others' behavior.
-In the early 1900s, a British Agent named 
+If we want to define fitness of behaviors we have to account for context to
+avoid a false inference like "gambling is more fit than public health
+investments" because someone won big the first time they went to a casino.
+This may in fact be the secret to understanding modern quantitative social
+science: context matters.
 
-The problem is, Aeons are susceptible to  Dialectic 
+Failing to account for context in social science causes overestimates of effect
+sizes in general. Therefore it is a theoretical and a practical problem: we will
+have trouble reasoning about different theories if they are underspecified. An
+underspecified theory is one whose assumptions leave something out so that there
+are several additional considerations that change any claim.
 
-Cultural evolution provides the *Price equation* to quantitatively reason about
-tradeoffs between how frequently one person learns a practice from another 
+If theories are underspecified, that means that
+when psychologists take sides theoretically and develop research programs to
+support their side, they are not in fact supporting their side since they have
+no real theory to support. This problem with underspecified is described in more detail by
+Dr. Tal Yarkoni in his _Behavior and Brain Sciences_ article, "The
+Generalizability Crisis" [@Yarkoni2022].
 
-### Opinion Change
 
-## Conclusion
+### If Resilience is Valued, Then Sustainability is Valuable
+
+### Science is a Human Invention With Attendant Power and Peril
+
+Science developed as an extension of one of humankind's basic survival
+instincts: to gather and synthesize information that is intended to reduce
+uncertainty.
+
+Science is not unitary, either, despite the how
+it is commonly conceived. Full theoretical self consistency and total agreement
+with all existing data is an idealization that became formalized as positivism
+made famous by Sir Karl Popper, a philosopher.
+
+
+### Strategic Creation of Mental Models of Social Life
+
+In the social realm, there is no hope of predicting real world outcomes with
+much certainty, and certainly not with the certainty that physics has achieved,
+for example. This is not because no one will ever be clever enough, but because
+social life is endlessly complex. High complexity also means lots of inherent
+randomness in social processes. Predictions can only be as accurate as the
+underlying randomness.
+
+## Organization Algebra and Quantitative Social Science
+
+Social learning and influence occur whenever two or more people _interacting_.
+Organization is structure for how, when, and which interactions take place.
+_Algebra_ is usually thought of as a student's first math nightmare when letters
+replace numbers.
+
+But the word algebra comes from Arabic meaning "separate into
+components." Then when we do algebra we see what happens when we ask, what can
+or what must $x$ or $y$ be in a system of equations. This is often framed as
+"solving for x and y", which is true. But it is also true that we ask and
+answer, "Which components, or points in the case of x and y being real numbers,
+of the number line satisfy the equation(s)?"
+
+_Algebraic Organization_, then, is an approach to social coordination based on
+strategically dividing and selecting components of social dynamics that can be
+represented mechanistically with sufficient specificity about what parts exist
+and how they interact in the system. _Sufficient specificity_ is measured by
+whether one can specify a Bayesian inference statistical model that includes an
+exhaustive accounting of potential sources of variance identified within the
+model structure itself.
+
+Algebraic organization need not be quantitative or only used for research.
+To explore the opposite end of that combined spectrum, we at the Generation of
+Participation in Democracy design our roles and responsibilities so that people
+fill multiple roles at different levels of responsibility, since there seems to
+be a special reservoir for responsibility: we can only handle so much and we can
+handle more if we have responsibility for a more limited number of tasks since
+leadership takes a lot of focus. However, writing and creating content that
+meets the needs specified by a designated publisher in our organization is much
+less taxing because one can just focus on the creative work with blinders
+until its done, and the designated publisher is responsible afterwards for
+seeing the content to publication. That means the content creators, who are
+likely leadfers in the company, also will not have any stress of a massive
+workflow of editing, uploading, copy/pasting, all the little steps that take a
+long time that must be done to publish.
+
+Our focus in this book, though, is _Quantitative Social Science_. Still, I will
+be sure to highlight important work in qualitative social science that is just
+as relevant as quantitative social science. They are complementary. Qualitative
+social science is especially important for understanding how superior
+_community-driven_ and _locally-led_ sustainable adaptation efforts can be, and
+how detrimental and draining top-down sustainability campaigns led by
+non-governmental organizations with the money but lacking local wisdom
+[@McNamara2020]. These facts can be incorporated into stylized, simplified
+quantitative models to understand how system variables relate to one another,
+and how to amplify adaptation by empowering minority groups [@Turner2023].
+
+The first step towards quantitative social science is to understand the algebra
+of social dynamics. We expand the system into parts not to simplify or abstract
+away the plight of historically marginalized folks, but instead to identify
+algorithms for reclaiming autonomy for those historically marginalized folks.
+Quantitative social science, like all good science, provides tools and
+heuristics for reducing uncertainty about the future. In physics for example,
+one knows for certain that coherent beams of light exist (lasers) and even how
+to create them. In social science, we can get no such precise predictions, but
+we can prove quantitatively that adaptation works better if the minority groups
+in a population are the first ones educated in educational or other
+sustainability, public health, or other policy intervention.
+
+We are ready to move forward with the presentation of _Quantitative Social
+Science for Shaping the Future_ hopefully with us aligned on why we simplify
+social dynamics to the point that we can investigate them with mathematics.
+There will always be some efforts by some people to control our social life,
+which amounts to total control over us. If we understand those schemes
+mechanistically, and use this science to build social coordination robust to
+adversaries, we can gain in our own autonomy and defense of ourselves and our
+families. In this approach it is a first principle to always assume that people
+can make their own decisions if only they had the wisdom and information
+necessary. If they lack that wisdom and information, but no one has yet tried to
+reach them, perhaps we can take up the challenge of reaching those that
+academics may have brushed off in the past as incapable of voting in their own
+self interest, for example.
+
+
+### The Algebra of Social Dynamics
+
+We can think of _social interaction_ as any time when information is signaled by
+one person and observed by another. We can call this a _signal_, the information
+emerging from one person and observed by one or more other people. The behavior
+need not be intended to transmit information. It need not be conscious, or
+intrinsically meaningful. Perhaps it need not be observed to truly count as a
+_signal_, then, but to this potential qualm I would concede it is a trivial, but
+a _trivial_ one since no information is transmitted between people.
+
+People interact in groups of two or more, and oftentimes one group can be
+further subdivided into others based on immutable traits such as one's gender,
+race, ethnicity, or age, or on mutable traits such as profession, socio-economic
+status, or political preference.
